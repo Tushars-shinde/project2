@@ -1,4 +1,4 @@
-// This is just developing a feature
+// This is just developing a button
 let h1 =document.querySelector("h1");
 
 h1.addEventListener("click",()=>{
